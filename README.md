@@ -88,20 +88,4 @@ Predictions are saved in `output.csv`.
 
 ---
 
-## 🤝 Contributing
-1. Fork the repo  
-2. Create a feature branch (`feature/new-idea`)  
-3. Commit your changes  
-4. Push to your fork  
-5. Open a Pull Request  
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-- Author: **Anishp-cell**  
-- GitHub: [Smart Crop Recommendation](https://github.com/Anishp-cell/Smart-crop-recommendation)
+://github.com/Anishp-cell/Smart-crop-recommendation)
