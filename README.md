@@ -88,4 +88,3 @@ Predictions are saved in `output.csv`.
 
 ---
 
-://github.com/Anishp-cell/Smart-crop-recommendation)
